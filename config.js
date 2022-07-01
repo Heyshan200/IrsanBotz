@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['+855 38 786 9292'] 
+global.owner = ['+94783961232'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ⁩⁩'
-global.numberowner = '+855 38 786 9292'
+global.nameowner = 'SL Heshan'
+global.numberowner = '+94783961232'
 global.instagram = 'https://instagram.com/'
 global.github = 'https://github.com/'
 global.dana = '089691183687'
@@ -14,8 +14,8 @@ global.gopay = 'https://wa.me/p/5189619011129791/855387869292'
 
 //=============『 Info Bot 』=================//
 global.namebot = '𝐒𝐀𝐍⁩-Md'
-global.gc = 'https://chat.whatsapp.com/BAwvBXQGfWq2fpscqIiuAn'
-global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/JK9V4oi0IALAervpjSNYJB'
+global.web = 'https://youtube.com/channel/UCwbkDZFJm9O3VEDVjcijiew' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
